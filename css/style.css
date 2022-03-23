@@ -1,3 +1,32 @@
+html,
+body{
+    height: 100%;
+    font-size:1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 .navbar-brand{
-    background-color:dimgrey
+    font-size:1.25rem;
+    font-style: inherit;
+    color:blueviolet;
+    
+}
+
+.gradient{
+        background: rgb(9,83,121);
+        background: linear-gradient(
+            90deg, rgba(9,83,121,1) 8%, 
+            rgba(0,212,255,1) 28%, 
+            rgba(8,31,136,1) 61%, 
+            rgba(8,142,102,1) 86%, 
+            rgba(8,101,142,1) 94%);
+}
+.page-header{
+    font-size: 1.25rem;
+    margin-top: 4rem;
+    color: #fff;
+}
+.anna img{
+    width: 600px;
+    height:365px;
 }
