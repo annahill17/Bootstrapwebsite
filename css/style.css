@@ -24,16 +24,29 @@ body{
 .page-header{
     font-size: 1.25rem;
     margin-top: 4rem;
-    color: #fff;
+    color: #fff ;
 }
 .anna img{
     width: 600px;
     height:365px;
 }
 .feature{
-    color: #fff
+   color:#fff;
 }
 .hill img{
     width:600px;
     height: 365px;
+}
+.feature ul li{
+    list-style-type:none;
+}
+.icon{
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
