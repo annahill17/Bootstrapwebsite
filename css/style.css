@@ -50,3 +50,9 @@ body{
     align-items: center;
     justify-content: center;
 }
+.gallery{
+    background-color: whitesmoke;
+}
+.gallery{
+        boder-radius:5%;
+}
